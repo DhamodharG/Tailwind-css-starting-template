@@ -11,6 +11,6 @@
 <ol>
   <li><p>Just open <strong> vs code </strong></p></li>
   <li>open terminal  <strong>( CTRL + ` )</strong> </li>
-  <li><p>Just run command <strong> npm install -D tailwindcss </strong></p></li>
-  <li> and then run <strong>" npm run dev"</strong></li>
+  <li><p>Just run command (<strong> npm install -D tailwindcss </strong>)</p></li>
+  <li> and then run <strong>" npm run dev "</strong></li>
 </ol>
